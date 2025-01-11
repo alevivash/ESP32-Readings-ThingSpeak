@@ -9,13 +9,13 @@
 #include <Adafruit_SSD1306.h>
 #include <ThingSpeak.h>
 
-const char* ssid = "MARTE3";
-const char* password = "carabobo1972";
+const char* ssid = "INSERT YOUR SSID";
+const char* password = "INSERT YOUR PASSWORD";
 
 WiFiClient client;
 
-unsigned long ChannelID = 2805648;
-const char* myWriteAPIKey = "W85UCBNM4G7YHUXL";
+unsigned long ChannelID = "INSERT YOUR CHANNEL ID (INT)";
+const char* myWriteAPIKey = "INSERT YOUR WRITE APYKEY";
 
 unsigned long lastTime = 0;
 unsigned long timerDelay = 30000;
