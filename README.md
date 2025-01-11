@@ -6,6 +6,5 @@ Adafruit_GFX.h
 Adafruit_SSD1306.h
 
 
-Displaying in a OLED display
+Displaying in ThingSpeak
 
-IDEAS: Adding a metric of pressure and altitute with BMP180
