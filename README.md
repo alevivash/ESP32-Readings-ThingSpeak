@@ -23,6 +23,7 @@ Hardware Requirements
 3.SSD1306 OLED display (128x64).
 4.Pull Up Resistor (10kΩ) for the DHT11 sensor.
 5.Breadboard and jumper wires.
+
 Software Requirements
 
 1.Arduino IDE with the following libraries installed:

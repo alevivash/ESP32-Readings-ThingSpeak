@@ -140,8 +140,5 @@ void loop() {
     }
     lastTime = millis();
   }
-
-    // Update the timer
-//lastTime = millis();
   
 }
